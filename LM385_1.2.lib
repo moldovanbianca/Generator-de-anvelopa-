@@ -1,0 +1,10 @@
+* LM358 1.2V in "zener diode style"
+* CONNECTIONS:       ANODE
+*                    | CATHODE
+*                    | |
+.SUBCKT LM385_1_2    A K 
+*
+  D1 A K D_LM385_1_2
+
+.MODEL D_LM385_1_2 D(Is=0.01f Rs=.05 Cjo=175p M=.55 nbv=1.7 bv=1.223 Vj=1.5 Isr=1.86n Nr=2 Ibv=1m Ibvl=1m Nbvl=15 Tbv1=-21.3u Vpk=4.7 mfg=TI type=Zener)
+.ENDS

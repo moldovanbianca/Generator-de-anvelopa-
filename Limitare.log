@@ -1,0 +1,17 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\Users\moldo\Desktop\SCIA PROIECT\Limitare.net
+Start Time: Mon Jan 19 18:21:18 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.162 seconds.
+
+Files loaded:
+C:\Users\moldo\Desktop\SCIA PROIECT\Limitare.net
+C:\Users\moldo\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\moldo\Desktop\SCIA PROIECT\LM741.lib
+C:\Users\moldo\AppData\Local\LTspice\lib\sub\NE555.sub
+

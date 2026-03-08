@@ -1,0 +1,18 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\Users\moldo\Desktop\SCIA PROIECT\Draft2.net
+Start Time: Wed Feb 25 18:48:46 2026
+C:\Users\moldo\Desktop\SCIA PROIECT\Draft2.net(3): Sub-circuit name listed twice. This is most likely because the corresponding symbol contains the name in more than one attribute.
+X§U1 N003 N001 VCC VEE N002 op07 OP07 ;§pnba In+)In-)V+)V-)OUT
+                                ^^^^^
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 89.511 seconds.
+
+Files loaded:
+C:\Users\moldo\Desktop\SCIA PROIECT\Draft2.net
+C:\Users\moldo\Desktop\SCIA PROIECT\op07.lib
+
